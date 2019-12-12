@@ -1,6 +1,6 @@
 # INST326 Final Project - Team 12
  
-- name of file: FinalProject.py
+- name of file: video_game_sales.py
 
 - The main question we are trying to figure out is what is the best predictor of global sales? We want to see which region impacts global sales the most and how they differ from each other.
 - Our program gives descriptive statistics for each of the regions inlcuding the minimum, maximum, median, mean, and standard deviation for North American, Japanese, European, and the rest of the world sales.
